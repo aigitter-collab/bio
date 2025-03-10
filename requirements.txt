@@ -6,6 +6,6 @@ lxml
 nltk
 transformers
 scikit-learn
-pandas
+pandas==2.2.2
 spacy
 vaderSentiment
